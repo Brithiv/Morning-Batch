@@ -11,7 +11,12 @@ public static void main(String[] args) {
 	System.out.println("B is on duty");
 	System.out.println("C is on duty");
 	
+
 	System.out.println("C is here");
 	
+
+	
+	System.out.println("A is done");
+
 }
 }
