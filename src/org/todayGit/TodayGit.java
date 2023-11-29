@@ -12,7 +12,10 @@ public static void main(String[] args) {
 	System.out.println("C is on duty");
 	
 	
-	System.out.println("B is here");
 	
+
+	System.out.println("B is done");
+	System.out.println("B");
+
 }
 }
